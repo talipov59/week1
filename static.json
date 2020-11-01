@@ -1,7 +1,8 @@
 {
-  "headers": {
+ "headers": {
    "*": {
-     "X-Author": "talipov59"
+     "X-Author": "talipov59",
+     "Access-Control-Allow-Origin": "*"
    }
  }
 }
